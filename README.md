@@ -6,9 +6,9 @@ interactive UI for an immersive chess experience.
 
  🛠️ Tech Stack
 Frontend (React)
-React.js – Interactive and responsive UI
-React Router – Seamless navigation
-Tailwind CSS / Styled Components – Modern UI styling
+React.js
+React Router
+Tailwind CSS / Styled Components
 
 
 Backend (Node.js + C++)
