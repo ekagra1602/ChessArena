@@ -15,6 +15,6 @@ Backend (Node.js + C++)
 
 Node.js & Express.js – REST API and WebSocket communication
 C++ Chess Engine – High-performance move calculations (Chess Engine)
-MongoDB / PostgreSQL – User data and match history storage
+MongoDB – User data and match history storage
 
 
