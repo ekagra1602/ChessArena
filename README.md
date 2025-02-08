@@ -1,4 +1,5 @@
 🚀 Overview
+
 This project is a web-based chess application that combines a dynamic React frontend 
 with a Node.js backend, powered by a custom C++ chess engine for efficient move calculations
 and AI gameplay. The platform supports real-time multiplayer, AI-based opponent modes, and a smooth, 
@@ -8,7 +9,7 @@ interactive UI for an immersive chess experience.
 Frontend (React)
 React.js
 React Router
-Tailwind CSS / Styled Components;
+Tailwind CSS
 
 
 Backend (Node.js + C++)
