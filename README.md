@@ -8,7 +8,7 @@ interactive UI for an immersive chess experience.
 Frontend (React)
 React.js
 React Router
-Tailwind CSS / Styled Components
+Tailwind CSS / Styled Components;
 
 
 Backend (Node.js + C++)
